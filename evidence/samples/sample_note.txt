@@ -1,0 +1,3 @@
+NIGHTJAR TRAINING SAMPLE
+This is a harmless text fixture.
+Indicator: InvoiceViewer.exe

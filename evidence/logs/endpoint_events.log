@@ -1,0 +1,7 @@
+[SIMULATED] 2026-10-22 09:14:22 | EMAIL | Anexo Documento_Fiscal_1022.zip recebido
+[SIMULATED] 2026-10-22 09:21:03 | USER_ACTION | Arquivo compactado aberto
+[SIMULATED] 2026-10-22 09:22:17 | PROCESS | InvoiceViewer.exe iniciado
+[SIMULATED] 2026-10-22 09:22:19 | FILE_ACCESS | Metadados do perfil do usuário consultados
+[SIMULATED] 2026-10-22 09:23:01 | FILE_ACCESS | Tentativa de leitura de configurações de aplicativos
+[SIMULATED] 2026-10-22 09:24:36 | NETWORK | Conexão de saída para 203.0.113.42:443
+[SIMULATED] 2026-10-22 09:24:40 | NETWORK | Volume de saída registrado: 184 KB
